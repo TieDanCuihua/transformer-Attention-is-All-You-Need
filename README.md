@@ -1,6 +1,6 @@
 # transformer-Attention-is-All-You-Need
 
-Google的《Attention is all you need》学习记录与总结。
+Google的《Attention is all you need》学习记录与总结。此模型在WMT 2014英语-德语翻译任务上达到28.4 BLEU。
 比起学习知识，我认为检索知识才是最耗时间的。找到好的资料，往往能事半功倍。我这里列出了我学习这篇论文时发现的好资料。
 
 源代码参考了https://github.com/Kyubyong/transformer。 代码写的很好，本想自己按照自己的思想修改一下，却发现越修改越糟糕.....
