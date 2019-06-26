@@ -8,7 +8,7 @@ Google的《Attention is all you need》学习记录与总结。此模型在WMT 
 当时我看到了tf.linalg.LinearOperatorLowerTriangular时，一直没想明白干啥用的，后来查到了代码解读，才恍然大悟。
 
 论文地址：https://arxiv.org/pdf/1706.03762.pdf
-这里有一篇论文的中文翻译版:https://www.yiyibooks.cn/yiyibooks/Attention_Is_All_You_Need/index.html， 不过建议读英文原版。
+这里有一篇论文的中文翻译版:https://www.yiyibooks.cn/yiyibooks/Attention_Is_All_You_Need/index.html ， 不过建议读英文原版。
 
 这篇论文的主要思想是放弃Rnn，全程只有attention来解决问题。
 
